@@ -1,4 +1,9 @@
 {
   "name": "cereal",
-  "packageManager": "yarn@4.5.1"
+  "packageManager": "yarn@4.5.1",
+  "type": "module",
+  "devDependencies": {
+    "diffable-html": "5.0.0",
+    "vitest": "2.1.5"
+  }
 }
